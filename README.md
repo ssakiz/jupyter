@@ -35,3 +35,8 @@ docker run --rm -it -p 8888:8888 -v /home/burcu/jupyter/workdir:/home/jupyter ju
 \# Create first python sample
 
 ![alt text](jupyter_browser_screenshot_first_sample.png "Title")
+
+
+\# Hello World !!!
+
+![alt text](jupyter_browser_screenshot_first_sample2.png "Title")

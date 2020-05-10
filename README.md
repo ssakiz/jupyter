@@ -8,6 +8,8 @@ docker build . -t jupyter/notebook
 docker run --rm -it -p 8888:8888 -v /home/burcu/jupyter/workdir:/home/jupyter jupyter/notebook
 ```
 
+### Sample output
+
     To access the notebook, open this file in a browser:
         file:///home/jupyter/.local/share/jupyter/runtime/nbserver-1-open.html
     Or copy and paste one of these URLs:

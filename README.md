@@ -1,7 +1,7 @@
 # jupyter by using docker
 
 
-## Installation
+## 1- Installation
 
 ```bash
 docker build . -t jupyter/notebook
@@ -28,7 +28,7 @@ docker run --rm -it -p 8888:8888 -v /home/burcu/jupyter/workdir:/home/jupyter ju
 
 
 
-## Running first python sample
+## 2- Running first python sample
 
 
 ![alt text](jupyter_browser_screenshot_first_sample.png "Title")
